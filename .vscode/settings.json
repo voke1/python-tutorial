@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/voke/Desktop/Projects/python-tutorial/venv/bin/python3"
+    "python.pythonPath": "/home/voke/Desktop/Projects/python-tutorial/venv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
