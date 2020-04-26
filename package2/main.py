@@ -46,6 +46,7 @@ print_random_value()
 
 
 class Mammal:
+    
     def walk(self):
         print('walk')
 
